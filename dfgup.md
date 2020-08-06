@@ -14,8 +14,7 @@
 
 <div align=center><h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3></div></p> 
 
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-0-3.jpg" width=880></a><br></div>
+
 
 <a name=list><b>目錄</b><p>
 <a href="#19">退党中心：21世纪灭共潮推手是3.6亿退党勇士</a><br>
@@ -92,6 +91,9 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-0-3.jpg" width=880></a><br></div>
 
 <a name=18><div align=center><h1><b><a href="https://git.io/3th">澳洲民众支持三亿五千万中华儿女退出中共（图）</a></b></h1></div> 
 
