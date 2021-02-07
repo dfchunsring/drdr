@@ -59,8 +59,7 @@
 
 <div align="center"><h2>神韵晚会播出时间如下（均为当地时间）：<p></h2></div>
 
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/sy-57.jpg" width=880></a><br></div>
+
 
 <table>
 
@@ -76,17 +75,27 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>02/07</td>
-	<td width=293;>20:00-23:00</td>
+	<td width=293;>2/11/2021</td>
+	<td width=293;>20:00</td>
 	<td width=293;>《神韵晚会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>02/07</td>
-	<td width=293;>23:00-02:00</td>
+	<td width=293;>2/11/2021</td>
+	<td width=293;>23:00</td>
 	<td width=293;>《神韵晚会》重播</td>
 </tr>		
+<tr>
+	<td width=293;>2/12/2021</td>
+	<td width=293;>08:30</td>
+	<td width=293;>《神韵晚会》重播</td>
+</tr>	
 
+<tr>
+	<td width=293;>2/12/2021</td>
+	<td width=293;>14:00</td>
+	<td width=293;>《神韵晚会》重播</td>
+</tr>	
 </table>
 
 
