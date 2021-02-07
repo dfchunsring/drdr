@@ -65,7 +65,7 @@
 
 <div align="center"><h3>以下是新唐人亚太台播出时间相关资讯：<p></h3></div>
 
-<div align="center"><h3>一、2020新唐人全球华人新年晚会<p></h3></div>
+<div align="center"><h3>一、2021新唐人全球华人新年晚会<p></h3></div>
 <div align="center"><h2>大陆<p></h2></div>
  
 
@@ -114,13 +114,13 @@
 <div align="center"><h2>2017和2018年神韵交响乐团音乐会。<p></h2></div>
 
 <table>
-<div align="center"><h3>《2017和2018年神韵交响乐团音乐会。》播出时间如下（均为当地时间）：<p></h3></div>
+<div align="center"><h3>《2021年神韵交响乐团音乐会。》播出时间如下（均为当地时间）：<p></h3></div>
 
 
 <div align="center"><h2><p>
  
 大陆	<p></h2></div>
-<div align="center"><h3>二、2018神韵交响乐团音乐会<p></h3></div>
+<div align="center"><h3>二、2019神韵交响乐团音乐会<p></h3></div>
 
 <tr>
 	<td width=293;>日期</td>
