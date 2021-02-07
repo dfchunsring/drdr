@@ -42,7 +42,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 
-<a name=8><div align="center"><h1><a href="http://tfd23.xyrs.bid/sy/">2020全球华人“神韵晚会”.mp4【预告】</a></h1></div></a><br>
+<a name=8><div align="center"><h1><a href="https://github.com/dfchunsring/arar/blob/master/sy-mp4/sy2021.mp4">2021全球华人“神韵晚会”.mp4【预告】</a></h1></div></a><br>
 
 <h3>【新唐人北京时间2021年02月07日讯】2021中国黄历新年期间，新唐人电视台将于2月11日（周四）开始独家播出“新唐人全球华人新年晚会——神韵晚会”，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。同时，新唐人还将播出“神韵艺术团交响乐团2019年音乐会”。
 
