@@ -101,11 +101,12 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
-<a name=1><div align="center"><h1><a href="http://www.epochtimes.com/gb/19/12/15/n11723280.htm">神 韵 交 响 乐</a></h1></div></a><br>
+<a name=1><div align="center"><h1><a href="https://www.epochtimes.com/b5/21/2/5/n12736427.htm">神 韵 交 响 乐</a></h1></div></a><br>
 
+<div align="center"><h1><a href="https://github.com/dfchunsring/arar/blob/master/sy-mp4/syup.mp4">2021全球华人“神韵音乐会”.mp4【预告】</a></h1></div></a><br>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/SY-127.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/sy-5.jpg" width=880></a><br></div>
 
 <h3>“神韵的音乐非常灿烂，散发一种能量的光芒。非常不寻常的正面能量，有一种解脱、很安详的气氛，让人回到了反璞归真的感觉。”被列于“牛津世界音乐名人录”的国际钢琴家宋允鹏赞道。
 有着百年历史的罗曼德管弦乐团的首席小提琴家伯格丹．兹沃特安卢（Bogdan Zvoristeanu）赞叹：“音乐极为感人，古今结合的乐器演奏将我们带入另外的时空，带到那遥远的、非常干净、非常纯洁、充满真相的地方。”</h3>
@@ -127,16 +128,22 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>02/08</td>
-	<td width=293;>08:30-10:30</td>
+	<td width=293;>2/12/2021</td>
+	<td width=293;>20:00</td>
 	<td width=293;>《神韵交响乐团音乐会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>02/08</td>
-	<td width=293;>20:00-10:00</td>
+	<td width=293;>2/13/2021</td>
+	<td width=293;>8:30</td>
 	<td width=293;>《神韵交响乐团音乐会》重播</td>
-</tr>		
+</tr>	
+
+<tr>
+	<td width=293;>2/13/2021</td>
+	<td width=293;>16:00</td>
+	<td width=293;>《神韵交响乐团音乐会》重播</td>
+</tr>	
 </table>
 
 
