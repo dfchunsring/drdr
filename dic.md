@@ -55,9 +55,9 @@
 </h3>
 <h2>《神韵全球华人新年晚会》</h2>
 
-下周五（2月26日）晚开始，新唐人将播出“神韵艺术团2020年演出”。
+<h3>下周五（2月26日）晚开始，新唐人将播出“神韵艺术团2020年演出”。
 
-神韵艺术团是全球顶级中国古典舞与传统音乐艺术团，旨在复兴与弘扬五千年正统神传文化；自2006年成立以来，从一个团发展到七个艺术团，每年都在全球几大洲巡回演出，所到之处均掀起观赏热潮，票房火热。
+神韵艺术团是全球顶级中国古典舞与传统音乐艺术团，旨在复兴与弘扬五千年正统神传文化；自2006年成立以来，从一个团发展到七个艺术团，每年都在全球几大洲巡回演出，所到之处均掀起观赏热潮，票房火热。</h3>
 
 <div align="center"><h2>神韵晚会播出时间如下（均为当地时间）：<p></h2></div>
 
@@ -78,13 +78,13 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>2/16/2021</td>
+	<td width=293;>2/26/2021</td>
 	<td width=293;>20:00</td>
 	<td width=293;>《神韵晚会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>2/16/2021</td>
+	<td width=293;>2/26/2021</td>
 	<td width=293;>23:00</td>
 	<td width=293;>《神韵晚会》重播</td>
 </tr>		
@@ -99,7 +99,7 @@
 <div align="center"><h1><a href="https://github.com/dfchunsring/arar/blob/master/sy-mp4/syup.mp4">2021全球华人“神韵音乐会”.mp4【预告】</a></h1></div></a><br>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/sy-5.jpg" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/gsy-1.jpg" width=880></a><br></div>
 
 <h3>“神韵的音乐非常灿烂，散发一种能量的光芒。非常不寻常的正面能量，有一种解脱、很安详的气氛，让人回到了反璞归真的感觉。”被列于“牛津世界音乐名人录”的国际钢琴家宋允鹏赞道。
 有着百年历史的罗曼德管弦乐团的首席小提琴家伯格丹．兹沃特安卢（Bogdan Zvoristeanu）赞叹：“音乐极为感人，古今结合的乐器演奏将我们带入另外的时空，带到那遥远的、非常干净、非常纯洁、充满真相的地方。”</h3>
@@ -109,6 +109,8 @@
 <table>
 <div align="center"><h3>《2021年神韵交响乐团音乐会。》播出时间如下（均为当地时间）：<p></h3></div>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/gsy-2.jpg" width=880></a><br></div>
 
 <div align="center"><h2><p>
  
@@ -121,22 +123,18 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>2/12/2021</td>
-	<td width=293;>20:00</td>
+	<td width=293;>2/7/2021</td>
+	<td width=293;>10:30</td>
 	<td width=293;>《神韵交响乐团音乐会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>2/13/2021</td>
-	<td width=293;>8:30</td>
-	<td width=293;>《神韵交响乐团音乐会》重播</td>
-</tr>	
-
-<tr>
-	<td width=293;>2/13/2021</td>
+	<td width=293;>2/27/2021</td>
 	<td width=293;>16:00</td>
 	<td width=293;>《神韵交响乐团音乐会》重播</td>
 </tr>	
+
+
 </table>
 
 
